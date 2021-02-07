@@ -32,3 +32,4 @@
 ;;(setq hello '((david . "5")(yes . "6")))
 ;;(insert (cdr (assoc 'david hello)))
 ;; I just called to say hello.
+;; Schaut hier noch mal jemand rein?
